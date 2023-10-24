@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "API_KEY";
 const chatGptUrl = "https://api.openai.com/v1/chat/completions";
 const chatGptModel = "gpt-3.5-turbo-16k";
 const maxGptTokens = 700;
